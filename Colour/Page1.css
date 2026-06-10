@@ -13,7 +13,10 @@
         h1 {
             font-size: 3rem;
         }
-
+        div{
+            border: 2px solid #0000000;
+                padding: 20px;
+        }
         .morning {
             background-color: #FFD166; 
             color: #333333;
