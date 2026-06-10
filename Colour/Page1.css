@@ -1,0 +1,35 @@
+        body {
+            margin: 0;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            font-family: sans-serif;
+
+            transition: background-color 1s ease, color 1s ease;
+        }
+
+        h1 {
+            font-size: 3rem;
+        }
+
+        .morning {
+            background-color: #FFD166; 
+            color: #333333;
+        }
+
+        .afternoon {
+            background-color: #4CC9F0; 
+            color: #fd0808;
+        }
+
+        .evening {
+            background-color: #F72585; 
+            color: #0a03d9;
+        }
+
+        .night {
+            background-color: #000000;
+            color: #4a4848;
+        }
