@@ -1,0 +1,7 @@
+C:\Users\kidmp\source\repos\Prepwork\bin\Debug\Prepwork.exe.config
+C:\Users\kidmp\source\repos\Prepwork\bin\Debug\Prepwork.exe
+C:\Users\kidmp\source\repos\Prepwork\bin\Debug\Prepwork.pdb
+C:\Users\kidmp\source\repos\Prepwork\obj\Debug\Prepwork.csproj.AssemblyReference.cache
+C:\Users\kidmp\source\repos\Prepwork\obj\Debug\Prepwork.csproj.CoreCompileInputs.cache
+C:\Users\kidmp\source\repos\Prepwork\obj\Debug\Prepwork.exe
+C:\Users\kidmp\source\repos\Prepwork\obj\Debug\Prepwork.pdb
